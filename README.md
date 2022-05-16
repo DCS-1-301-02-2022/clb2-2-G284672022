@@ -1,10 +1,18 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
 
-# Test
+# Test 
+
+:tada:
+
+ladsfadfa**adfads**dafasfa
+
+1. a
+3. a
+1. a
 
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
-- [ ] 2種類以上の見出し(headers)を使っている．
+- [x] 2種類以上の見出し(headers)を使っている．
 - [ ] 2種類以上の強調(emphasis)を使っている．
 - [ ] (番号付きの)リスト(ordered lists)を使っている
 - [ ] (番号無しの)リスト(unordered lists)を使っている．
